@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    margin-top: 10px;
+    margin-bottom: auto;
+    margin-left:auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+
+}
+
+button{
+
+    padding: 1px 6px;
+ 
+}
+
+.logo {
+    background-color: #EEEEEE;
+    margin-top: auto;
+    margin-bottom: 2px;
+    padding: 3px 3px 3px 3px;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    width: 89%;    
+         
+}
+
+.links{
+    width: 89%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+.link1{
+    width: 37%;
+    height: 75px;
+    float: left;
+    margin-right: 0.19%;
+    padding-top: 1%;
+    padding-bottom: 0.5% ;
+    background-color:#7EE5DA ;
+    text-align: center;
+
+}
+
+
+.link2{
+    width: 19%;
+    height: 75px;
+    float: left;
+    margin-right: 0.19%;
+    padding-top: 0.2%;
+    padding-bottom: 0.5% ;
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: small;
+}
+
+#get{
+    font-size: small;
+}
+
+.link3{
+    width: 43.6%;
+    height: 75px;
+    float: left;
+    padding-bottom: 1% ;
+    background-color: #62B3AA;
+    text-align: center;
+}
+
+
+
+
+#footer{ 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;
+    font-size: small;
+    float: left;
+    width: 100%;
+ 
+
+}
+
+#archieve{
+    font-size: small;
+}
